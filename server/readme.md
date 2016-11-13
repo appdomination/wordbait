@@ -1,0 +1,1 @@
+Server side components for wordbait. Currently only utilizing google app engine cloud endpoints

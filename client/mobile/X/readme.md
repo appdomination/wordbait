@@ -1,0 +1,1 @@
+Project directory for cross-platoform mobile client

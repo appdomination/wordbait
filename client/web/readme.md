@@ -1,0 +1,2 @@
+Project directory for web client. Currently using GAE endpoints to serve web client content. Even though these are server-side files they
+need to be distinguished from python endpoints that serve the gameplay
