@@ -1,12 +1,12 @@
 Project directories for clients. Put intelXDK projects in respective mobile client configuration directories
 
 mobile clients:
-	- ios
-	- android
+- ios
+- android
 	
 web clients:
-	- browser from PC
-		- IE
-		- firefox
-		- Chrome
-		- Safari
+- browser from PC
+	- IE
+	- firefox
+	- Chrome
+	- Safari
