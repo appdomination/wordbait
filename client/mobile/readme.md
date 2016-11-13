@@ -2,7 +2,7 @@ IntelXDK project ocnfigurations. Most likely using only cross-platform configura
 for pre-build platform specific configurations
 
 Languages:
-	- CSS3
-	- HTML5
-	- AngularJS
-	- JQuery mobile
+- CSS3
+- HTML5
+- AngularJS
+- JQuery mobile
